@@ -1,0 +1,11 @@
+Cos’è un algoritmo?
+
+Un algoritmo è una serie di passaggi necessari per risolvere un problema. Facendo una similitudine si può dire che un algoritmo è come una ricetta che, se eseguita correttamente, ci permette di preparare un pasto.
+
+Cos’è una variabile?
+
+Le variabili sono dei contenitori necessari per risolvere un problema. Dopo aver scomposto il problema nei vari passaggi, potrebbero servire dei contenitori intermedi o parziali per arrivare alla risoluzione. Per dichiarare una variabile (etichettare il contenitore) viene utilizzato il comando let.
+
+Undefined e null sono la stessa cosa?
+
+Undefined è la condizione di una variabile a cui non è ancora stato assegnato un valore, mentre null è la condizione che assegna nessun valore alla variabile. Nel caso in precedenza sia stato assegnato un valore ad una variabile, dichiarando valore null viene “svuotato” il contenitore dal precedente valore
